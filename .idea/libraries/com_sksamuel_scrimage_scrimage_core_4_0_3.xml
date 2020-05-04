@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="com.sksamuel.scrimage:scrimage-core:4.0.3" type="repository">
+    <properties maven-id="com.sksamuel.scrimage:scrimage-core:4.0.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sksamuel/scrimage/scrimage-core/4.0.3/scrimage-core-4.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-core/3.5/imageio-core-3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-lang/3.5/common-lang-3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-io/3.5/common-io-3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-image/3.5/common-image-3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-jpeg/3.5/imageio-jpeg-3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-metadata/3.5/imageio-metadata-3.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/drewnoakes/metadata-extractor/2.13.0/metadata-extractor-2.13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/xmp/xmpcore/6.0.6/xmpcore-6.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.71/kotlin-stdlib-jdk8-1.3.71.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.3.71/kotlin-stdlib-1.3.71.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.71/kotlin-stdlib-common-1.3.71.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.71/kotlin-stdlib-jdk7-1.3.71.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/zh79325/open-gif/1.0.4/open-gif-1.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ar/com/hjg/pngj/2.1.0/pngj-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sksamuel/scrimage/scrimage-core/4.0.3/scrimage-core-4.0.3-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-core/3.5/imageio-core-3.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-lang/3.5/common-lang-3.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-io/3.5/common-io-3.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-image/3.5/common-image-3.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-jpeg/3.5/imageio-jpeg-3.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-metadata/3.5/imageio-metadata-3.5-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/drewnoakes/metadata-extractor/2.13.0/metadata-extractor-2.13.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/xmp/xmpcore/6.0.6/xmpcore-6.0.6-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.71/kotlin-stdlib-jdk8-1.3.71-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.3.71/kotlin-stdlib-1.3.71-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.71/kotlin-stdlib-common-1.3.71-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.71/kotlin-stdlib-jdk7-1.3.71-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/zh79325/open-gif/1.0.4/open-gif-1.0.4-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ar/com/hjg/pngj/2.1.0/pngj-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sksamuel/scrimage/scrimage-core/4.0.3/scrimage-core-4.0.3-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-core/3.5/imageio-core-3.5-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-lang/3.5/common-lang-3.5-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-io/3.5/common-io-3.5-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-image/3.5/common-image-3.5-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-jpeg/3.5/imageio-jpeg-3.5-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-metadata/3.5/imageio-metadata-3.5-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/drewnoakes/metadata-extractor/2.13.0/metadata-extractor-2.13.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/adobe/xmp/xmpcore/6.0.6/xmpcore-6.0.6-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.3.71/kotlin-stdlib-jdk8-1.3.71-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.3.71/kotlin-stdlib-1.3.71-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.3.71/kotlin-stdlib-common-1.3.71-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.3.71/kotlin-stdlib-jdk7-1.3.71-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/zh79325/open-gif/1.0.4/open-gif-1.0.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ar/com/hjg/pngj/2.1.0/pngj-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
